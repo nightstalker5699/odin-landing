@@ -68,9 +68,11 @@ gap: 15px;
 align-items: flex-start;
 }
 .text button {
-    background-color: lightblue;
+    background-color:#3882F6;
+    border: 0;;
     padding: 5px 20px;
-    border-radius: 25px;
+    border-radius: 5px;
+    color:#F9FAF8
 }
 .img{ 
     flex:1;
@@ -153,7 +155,7 @@ align-items: flex-start;
    color:#E5E7EB;
    border:#E5E7EB 2px solid;
    background-color: #3882F6;
-   border-radius: 10px;
+   border-radius: 5px;
 }  
 footer {
     display:flex;
