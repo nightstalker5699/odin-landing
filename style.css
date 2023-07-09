@@ -101,7 +101,8 @@ align-items: flex-start;
 .img-container {
     display:flex;
     text-align: center;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 20px;
 }
 .img-container div span {
     padding:10px;
@@ -132,6 +133,8 @@ align-items: flex-start;
     font-size: 18px;
     color:#1F2937;
     text-align: right;
+    margin-top: 10px;
+    padding-right: 100px;
     font-weight: bolder;
 }
 .four{
